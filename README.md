@@ -1,3 +1,5 @@
+Ref:- https://medium.com/rossum/building-our-own-version-of-alphago-zero-b918642bd2b5
+
 Nochi --- Minimalistic AlphaGoZero-like Engine
 ==============================================
 
